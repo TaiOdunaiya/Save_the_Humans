@@ -1,0 +1,29 @@
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe.config
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.csprojAssemblyReference.cache
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\MainWindow.g.cs
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\App.g.cs
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans_MarkupCompile.cache
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans_MarkupCompile.lref
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\MainWindow.baml
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.g.resources
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save_The_Humans.Properties.Resources.resources
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.csproj.GenerateResource.cache
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.csproj.CoreCompileInputs.cache
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\Taiodunaiya\source\repos\Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe.config
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save The Humans.csprojAssemblyReference.cache
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\MainWindow.g.cs
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\App.g.cs
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save The Humans_MarkupCompile.cache
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save The Humans_MarkupCompile.lref
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\MainWindow.baml
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save The Humans.g.resources
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save_The_Humans.Properties.Resources.resources
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save The Humans.csproj.GenerateResource.cache
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\t_dog\Desktop\Development\Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
