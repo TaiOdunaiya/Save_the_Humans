@@ -1,3 +1,6 @@
+![image](https://github.com/TaiOdunaiya/Save_the_Humans/assets/52798951/743d25f1-f685-44bb-855d-44ad0c6c08cf)
+
+
 Save the Humans - Protect Earth from Aliens! [C#]
 How to Play
 
